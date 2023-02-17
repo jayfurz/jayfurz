@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayfurz
 - 👀 I’m interested in numbers and big data
-- 🌱 I’m currently learning JavaScript Algorithms and Data Science
+- 🌱 I’m currently learning embedded development, FPGA development and Data Science
 - 💞️ I’m looking to collaborate on a machine learning project
 - 📫 How to reach me justin0106@protonmail.com
 
